@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(rgb(186, 193, 188), rgb(124, 203, 179))
+}
+
+
+
+.h1 {
+  font-style: sans-serif;
+  font-weight: bold;
+  color: rgb(17, 111, 183);
+  text-align: center;
+  margin-top: 50px;
+}
+
+.hidden {
+  display: none;
+}
